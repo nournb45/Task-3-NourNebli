@@ -1,7 +1,7 @@
 # Task-3-NourNebli
-# 🎬 AI Movie Recommendation System
+#  AI Movie Recommendation System
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is a simple Artificial Intelligence Recommendation System developed as part of the DecodeLabs Artificial Intelligence Internship (Project 3).
 
@@ -11,7 +11,7 @@ Instead of randomly suggesting movies, the system analyzes the similarity betwee
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Collect user preferences.
 * Represent movies using feature vectors.
@@ -31,7 +31,7 @@ Instead of randomly suggesting movies, the system analyzes the similarity betwee
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 A small movie dataset is created manually inside the program.
 
@@ -51,7 +51,7 @@ Each movie contains one or more genres:
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 ### Step 1: User Input
 
@@ -132,7 +132,7 @@ recommendations.csv
 
 ---
 
-## ▶️ Installation
+##  Installation
 
 Install the required libraries:
 
@@ -142,7 +142,7 @@ pip install pandas scikit-learn matplotlib
 
 ---
 
-## ▶️ Running the Project
+##  Running the Project
 
 Execute:
 
@@ -185,7 +185,7 @@ TOP MOVIE RECOMMENDATIONS
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Add thousands of movies from a real dataset.
 * Allow users to rate movies.
@@ -196,7 +196,7 @@ TOP MOVIE RECOMMENDATIONS
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 This project demonstrates the fundamentals of recommendation systems in Artificial Intelligence. By using Cosine Similarity, the system successfully identifies movies that match user preferences and provides personalized recommendations.
 
